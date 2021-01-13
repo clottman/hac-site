@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: About
+    url: "/about"
+  - text: Tenant Resources
+    url: "/resources"
+  - text: Join the Collective
+    url: "/join"
   - text: Blog
     url: "/blog"
